@@ -1,15 +1,14 @@
-### ¡Hola! 👋
+# ¡Hola! 👋
 
 ## Oscar Ignacio Mendoza Cardozo
 
 
 
-
 - 🔭 Soy Fonoaudiológo
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 
+- 👯 
+- 🤔 
+- 💬 
+- 📫 
+- 😄 
+- ⚡
