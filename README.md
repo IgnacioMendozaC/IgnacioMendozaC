@@ -19,4 +19,4 @@
   -   Swallowing and Dysphagia
   -   Open Science.
 
-- How to reach me: :email: oscar.mendoza1@udea.edu.co| [Twitter](http://www.limni.net) |  |
+- How to reach me: :email: oscar.mendoza1@udea.edu.co| [Twitter](https://twitter.com/OscarIgnacioMz) | 
