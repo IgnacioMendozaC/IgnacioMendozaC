@@ -18,3 +18,5 @@
   -   Data Science, Data Analysis in R
   -   Swallowing and Dysphagia
   -   Open Science.
+
+- How to reach me: :email: oscar.mendoza1@udea.edu.co| [Twitter](http://www.limni.net) |  |
