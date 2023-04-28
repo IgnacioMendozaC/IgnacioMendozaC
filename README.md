@@ -11,12 +11,12 @@
 - 😄 Competente en softwares estadísticos RStudio, SPSS, EPIDAT y Epi Info
 
 - :pushpin:  Interests in:
-  -   Clinical Epidemiology
-  -   Biostatistics
-  -   Causality in Epidemiology
-  -   Public Health Surveillance
-  -   Data Science, Data Analysis in R
-  -   Swallowing and Dysphagia
-  -   Open Science.
+  -  :microscope: Clinical Epidemiology
+  -  :bar_chart: Biostatistics
+  -  :dart: Causality in Epidemiology
+  -  :mag: Public Health Surveillance
+  -  :computer: Data Science, Data Analysis in R
+  -  :tongue: Swallowing and Dysphagia
+  -  :rocket: Open Science.
 
 - How to reach me: :email: oscar.mendoza1@udea.edu.co | [Twitter](https://twitter.com/OscarIgnacioMz) | 
