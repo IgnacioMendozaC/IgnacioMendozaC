@@ -8,7 +8,7 @@
 
 - :chart_with_upwards_trend: Epidemiologist by vocation
 
-- 😄 Competente en softwares estadísticos RStudio, SPSS, EPIDAT y Epi Info
+- 😄 Competent in statistical software RStudio, SPSS, EPIDAT y Epi Info
 
 - :pushpin:  Interests in:
   -  :microscope: Clinical Epidemiology
