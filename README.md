@@ -1,7 +1,7 @@
 ### ¡Hola! 👋
 
+## Oscar Ignacio Mendoza Cardozo
 
-**IgnacioMendozaC/IgnacioMendozaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
