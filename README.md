@@ -1,4 +1,3 @@
-# ¡Hi! 
 
 ## Oscar Ignacio Mendoza Cardozo
 
