@@ -8,22 +8,22 @@ I am a **Speech-Language Pathologist** with a specialized focus on **swallowing 
 
 ## Areas of Expertise
 
-- **Swallowing Disorders (Dysphagia)**
-- **Clinical Epidemiology**
-- **Biostatistics and Data Analysis**
-- **Causality in Epidemiology**
-- **Public Health Surveillance**
-- **Data Science**
+- Swallowing disorders (dysphagia)  
+- Clinical epidemiology  
+- Biostatistics and data analysis  
+- Causality in epidemiology  
+- Public health surveillance  
+- Data science
 
 ## Technical Proficiencies
 
-- **RStudio**, **SPSS**, **EPIDAT**, **Epi Info**
-- **Statistical Analysis** and **Epidemiological Modeling**
-- **R Programming** and **Big Data Analysis**
-- **Data Visualization** and **Interactive Reporting**
-
+- RStudio, SPSS, EPIDAT, Epi Info  
+- Statistical analysis and epidemiological modeling  
+- R programming and big data analysis  
+- Data visualization and interactive reporting
+  
 ## Areas of Interest
 
-**Data Science** 💻 | **R Package Development** 🛠️ | 
+**Data Science** 💻 | **R Package Development** 🛠️ | **open science** 🌐
 
 
