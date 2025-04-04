@@ -1,38 +1,27 @@
+
 # Oscar Ignacio Mendoza Cardozo
 
 **Speech-Language Pathologist | Epidemiologist | Data Science Enthusiast**
 
-I specialize in **swallowing disorders (dysphagia)** and have a strong foundation in **epidemiology** and **applied statistics**, using data analysis to improve public health.
+I am a **Speech-Language Pathologist** with a specialized focus on **swallowing disorders (dysphagia)**. With a solid foundation in **epidemiology** and **applied statistics**, I leverage clinical expertise and data analysis to drive improvements in public health outcomes.
 
----
-
-## Expertise & Skills:
+## Areas of Expertise
 
 - **Swallowing Disorders (Dysphagia)**
-- **Clinical Epidemiology** & **Biostatistics**
-- **Causality in Epidemiology**  
-- **Public Health Surveillance**  
-- **R Programming**, **SPSS**, **Epi Info**  
-- **Data Visualization & Reporting**
+- **Clinical Epidemiology**
+- **Biostatistics and Data Analysis**
+- **Causality in Epidemiology**
+- **Public Health Surveillance**
+- **Data Science**
 
----
+## Technical Proficiencies
 
-## Areas of Interest:
+- **RStudio**, **SPSS**, **EPIDAT**, **Epi Info**
+- **Statistical Analysis** and **Epidemiological Modeling**
+- **R Programming** and **Big Data Analysis**
+- **Data Visualization** and **Interactive Reporting**
 
-- 📊 **Clinical Epidemiology**: Solving health challenges with data.  
-- 🔍 **Causality in Epidemiology**: Understanding cause-effect relationships.  
-- 📈 **Public Health Surveillance**: Tracking trends to prevent diseases.  
-- 💻 **Data Science**: Advanced biomedical data analysis.  
-- 🛠️ **R Package Development**: Creating tools for statistical analysis.
+## Areas of Interest
 
----
-
-## Philosophy:
-
-Driven by **data-driven insights** and **open science**, I aim to improve health outcomes by integrating clinical practice with data analysis.
-
-
-
-
-How to reach me: :email: oscar.mendoza1@udea.edu.co | 
+I am particularly interested in **Clinical Epidemiology** 📊, applying quantitative methods to solve public health challenges, and **Causality in Epidemiology** 🔍, where I explore cause-effect relationships in health and disease. Additionally, I focus on **Public Health Surveillance** 📈, monitoring health trends to improve disease prevention and control, and **Data Science** 💻, using advanced data analysis techniques, especially in biomedical data and **R Package Development** 🛠️ to create tools for statistical analysis.
 
