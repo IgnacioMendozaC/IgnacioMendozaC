@@ -26,4 +26,7 @@ I am a **Speech-Language Pathologist** with a specialized focus on **swallowing 
 
 **Data Science** 💻 | **R Package Development** 🛠️ | **open science** 🌐
 
+📫 Contact me at    oscar.mendoza1@udea.edu.co 
+
+
 
