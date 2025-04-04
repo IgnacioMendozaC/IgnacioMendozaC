@@ -18,4 +18,4 @@
   -  :tongue: Swallowing and Dysphagia
   -  :rocket: Open Science.
 
-How to reach me: :email: oscar.mendoza1@udea.edu.co | [Twitter](https://twitter.com/OscarIgnacioMz) | 
+How to reach me: :email: oscar.mendoza1@udea.edu.co | 
