@@ -1,4 +1,4 @@
-# Oscar Ignacio Mendoza Cardozo
+# Oscar Ignacio Mendoza Cardozo 👨‍⚕️
 
 **Speech-Language Pathologist | Epidemiologist | Data Science Enthusiast**
 
