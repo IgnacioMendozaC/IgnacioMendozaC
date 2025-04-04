@@ -1,7 +1,8 @@
 
-# Oscar Ignacio Mendoza Cardozo
+# Oscar Ignacio Mendoza Cardozo 🇨🇴🇦🇺
 
 **Speech-Language Pathologist | Epidemiologist | Data Science Enthusiast**
+---
 
 I am a **Speech-Language Pathologist** with a specialized focus on **swallowing disorders (dysphagia)**. With a solid foundation in **epidemiology** and **applied statistics**, I leverage clinical expertise and data analysis to drive improvements in public health outcomes.
 
@@ -23,5 +24,6 @@ I am a **Speech-Language Pathologist** with a specialized focus on **swallowing 
 
 ## Areas of Interest
 
-I am particularly interested in **Clinical Epidemiology** 📊, applying quantitative methods to solve public health challenges, and **Causality in Epidemiology** 🔍, where I explore cause-effect relationships in health and disease. Additionally, I focus on **Public Health Surveillance** 📈, monitoring health trends to improve disease prevention and control, and **Data Science** 💻, using advanced data analysis techniques, especially in biomedical data and **R Package Development** 🛠️ to create tools for statistical analysis.
+**Data Science** 💻 | **R Package Development** 🛠️ | 
+
 
